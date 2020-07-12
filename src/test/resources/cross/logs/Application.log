@@ -1,0 +1,12 @@
+12/07/2020 17:47:28 devpinoyLogger Config file loaded !!!
+12/07/2020 17:47:28 devpinoyLogger OR file loaded !!!
+12/07/2020 17:47:44 devpinoyLogger Navigated to : http://automationpractice.com/index.php
+12/07/2020 17:47:46 devpinoyLogger clicking on signup button
+12/07/2020 17:47:50 devpinoyLogger inside the create account test and entering all details
+12/07/2020 17:47:59 devpinoyLogger successfully entered all details nd now navigating to login page
+12/07/2020 17:48:02 devpinoyLogger inside the login test and entered valid crediatial and clicking on signin button 
+12/07/2020 17:48:05 devpinoyLogger login sucessfully
+12/07/2020 17:48:05 devpinoyLogger inside the select product page and select women and click on quick view
+12/07/2020 17:48:30 devpinoyLogger Successfully added 2 product and successfully placed oredr
+12/07/2020 17:48:30 devpinoyLogger Now verifing order history 
+12/07/2020 17:48:34 devpinoyLogger SUCESSFULLY DISPLAYED ORDER HISTORY 

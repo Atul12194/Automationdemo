@@ -1,0 +1,12 @@
+17:47:28,516 DEBUG devpinoyLogger:55 - Config file loaded !!!
+17:47:28,521 DEBUG devpinoyLogger:70 - OR file loaded !!!
+17:47:44,851 DEBUG devpinoyLogger:107 - Navigated to : http://automationpractice.com/index.php
+17:47:46,972 DEBUG devpinoyLogger:16 - clicking on signup button
+17:47:50,812 DEBUG devpinoyLogger:18 - inside the create account test and entering all details
+17:47:59,684 DEBUG devpinoyLogger:63 - successfully entered all details nd now navigating to login page
+17:48:02,227 DEBUG devpinoyLogger:14 - inside the login test and entered valid crediatial and clicking on signin button 
+17:48:05,688 DEBUG devpinoyLogger:18 - login sucessfully
+17:48:05,739 DEBUG devpinoyLogger:17 - inside the select product page and select women and click on quick view
+17:48:30,367 DEBUG devpinoyLogger:43 - Successfully added 2 product and successfully placed oredr
+17:48:30,368 DEBUG devpinoyLogger:44 - Now verifing order history 
+17:48:34,438 DEBUG devpinoyLogger:47 - SUCESSFULLY DISPLAYED ORDER HISTORY 
